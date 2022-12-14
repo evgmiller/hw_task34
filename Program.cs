@@ -20,7 +20,7 @@ void PrintArray(int[] arr)
     }
 }
 
-int [] array= GetArray(8, 99,999);
+int [] array= GetArray(8, 100,999);
 PrintArray (array);
 
 int count=0;
